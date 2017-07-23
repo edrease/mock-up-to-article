@@ -1,0 +1,29 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+
+* What new skills have you learned?
+
+	I think I am developing my internal dictionary of properties and attributes. I had to research some elements I did not know, and I am trying
+	to commit those to memory in order to be faster.
+
+* What has been easy?
+
+	Overall I think the concept was fairly easy, and general implementation seemed so too.
+
+* What has been difficult?
+
+	I think focusing on the small details of replicating the mock up exactly was a little difficult. But it's great practice.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+	I have definitely taken advantage of googling and looking at web developer tools. I feel like I am getting better at asking the right questions
+	on google and on the dev tools sites.
